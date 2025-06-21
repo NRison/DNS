@@ -3,13 +3,11 @@
 This tutorial outlines how to assign IP addresses, work with local cache and the main DNS server.<br />
 
 
-<h2>Post-Install Configuration Objectives</h2>
+<h2>Tutorial Objectives</h2>
 
 - Changing location of website/Changing IP address
 - Using local cache/changing IP address directly in server
-- Set Up Rules
-- Item 4
-- Item 5
+
 
 <h2>Configuration Steps</h2>
 
